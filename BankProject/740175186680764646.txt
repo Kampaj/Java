@@ -1,0 +1,2 @@
+BankAccount{bankName='Pekao s.a.', bankAccountNumber='740175186680764646', accountBalance=5000,
+ paymentsList=[Deposit{title='Deposit to: ', account=740175186680764646, cash=10000, bankSwiftNumber=Pekao s.a.}, Withdraw{title='Withdraw from : ', account=740175186680764646, cash=5000, bankSwiftNumber=Pekao s.a.}]}

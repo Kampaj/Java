@@ -1,0 +1,2 @@
+BankAccount{bankName='Pekao s.a.', bankAccountNumber='716543507837328455', accountBalance=999,
+ paymentsList=[Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)]}

@@ -1,0 +1,3 @@
+Deposit{title='Deposit to: ', account=740175186680764646, cash=10000, bankSwiftNumber=Pekao s.a.}
+Withdraw{title='Withdraw from : ', account=740175186680764646, cash=5000, bankSwiftNumber=Pekao s.a.}
+Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)

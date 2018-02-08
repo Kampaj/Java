@@ -1,0 +1,8 @@
+bank{swiftNumber=PLPK0PL,
+ bankAccountList=[BankAccount{bankName='Pekao s.a.', bankAccountNumber='740175186680764646', accountBalance=5000,
+ paymentsList=[]}, BankAccount{bankName='Pekao s.a.', bankAccountNumber='716543507837328455', accountBalance=999,
+ paymentsList=[Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)]}],
+ personList=[Person{name='cock', surname='bock', PESEL='96081612519', 
+bankAccountList=[BankAccount{bankName='Pekao s.a.', bankAccountNumber='716543507837328455', accountBalance=999,
+ paymentsList=[Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)]}], paymentsList=[Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)]}],
+ paymentsList=[Deposit (title = 'Deposit to: ', account = 716543507837328455, cash = 999, bankSwiftNumber = Pekao s.a.)]}
